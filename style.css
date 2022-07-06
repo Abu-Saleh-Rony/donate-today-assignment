@@ -172,6 +172,23 @@ body {
     border-radius: 10px;
 }
 
+.gets-update-class {
+    width: 500px;
+    height: 80px;
+    background-color: #fff4d6;
+    padding: 50px;
+    margin-left: 30%;
+    margin-bottom: 90px;
+}
+
+.colored-subscribe {
+    background-color: red;
+    padding: 10px 10px;
+    color: white;
+    font-weight: 400;
+
+}
+
 footer {
     text-align: center;
     padding: 3px;
