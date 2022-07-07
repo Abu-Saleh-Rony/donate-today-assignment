@@ -1,7 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-    overflow-x: hidden;
 }
 
 .lets-help {
@@ -170,6 +169,21 @@ body {
     background-color: #fff4d6;
     padding: 20px;
     border-radius: 10px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 10%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.survive-a-flood {
+    display: flex;
+    margin-bottom: 100px;
 }
 
 .gets-update-class {
