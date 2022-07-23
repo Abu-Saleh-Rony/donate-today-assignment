@@ -206,7 +206,9 @@ body {
 .input-email {
     width: 250px;
     padding: 5px 10px;
-    background-color: #F8F9F9;
+    background-color: #D9D9D9;
+    border: none;
+
 }
 
 .subscribe-button {
